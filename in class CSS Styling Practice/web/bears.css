@@ -1,0 +1,32 @@
+#image01
+{
+	width: 780px; 
+	border: 10px groove #1e6315;
+}
+
+#image02
+{
+	width: 780px; 
+	border: 10px groove #1e6315;
+}
+#image03
+{
+	width: 780px; 
+	border: 10px groove #1e6315;
+}
+#image04
+{
+	width: 780px; 
+	border: 10px groove #1e6315;
+}
+#image05
+{
+	width: 780px; 
+	border: 10px groove #1e6315;
+}
+
+p{
+	font-size: 15pt;
+	color: orange;
+	font-family: Helvetica, serif;
+}
