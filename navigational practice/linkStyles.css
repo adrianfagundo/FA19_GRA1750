@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#maincontainer{
+	width: 700px;
+	height: 1200px;
+	background-color: indigo;
+	margin: 0 auto;
+}
+
+#navigation{
+	height: 80px;
+	width: 450px;
+	background-color: gold;
+	margin: 0 auto;
+}
+#navigation a{
+	padding: 25px 25px 25px 25px;
+	font-family: shoguns clan, garamond, sans-serif;
+	font-size: 1.2em;
+	line-height: 4em;
+	color: white;
+	background-color: cyan; 
+	color: red;
+
+	text-decoration: none;
+}
+#navigation a:hover{
+	background-color: white;
+	transition: all 1s ease-out;
+
+}
+
+#navigation a:visited{
+	color: orange;
+
+}
+
+#navigation a:active{
+	color: yellow;
+
+}
+#navigation:first-child{
+	padding-left: 25px;
+}
