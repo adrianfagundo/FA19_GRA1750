@@ -1,0 +1,67 @@
+#maincontainer{
+	width:700px
+	height:800px;
+	border: groove;
+	border-color: silver;
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+}
+#maincontainer a{
+	color: black;
+	font-family: arial;
+	font-size: 10em;
+	text-align: center;
+}
+#maincontainer img[alt="iphone11pro"]{
+	width: 1000px;
+	height: 900px;
+	margin: 0 auto;
+}
+a{
+	color: black;
+	text-align: center;
+	font-size: 2em;
+	font-family: Calibri;
+}
+
+#images img{
+	width: 650px;
+	height: 600px;
+	margin: 0 auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: groove;
+	border-color: silver;
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#finally img{
+	width: 700px;
+	height: 900px;
+	margin: 0 auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: groove;
+	border-color: silver;
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+
+}
+#finally a{
+	color: black;
+	font-family: arial;
+	font-size: 3em;
+	text-align: center;
+}
+#finally a{
+	color: black;
+	font-family: arial;
+	font-size: 2em;
+	text-align: center;
+}
