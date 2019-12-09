@@ -1,0 +1,100 @@
+body{
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+#background {
+	width: 612px;
+	height: 792px;
+	background: url(invitation1.jpg);
+	margin: 0 auto;
+}
+
+.title1 {
+	font-size: 20pt;
+	color: #6d6e71;
+	font-family: lucida fax, serif;
+	text-align: left;
+	margin: 0 auto;
+	position: relative;
+	top: 40px;
+}
+
+.title2 {
+	font-size: 50pt;
+	color: #a97c50;
+	font-family: lucida fax, serif;
+	text-align: left;
+	margin: 0 auto;
+	position: relative;
+	top: 43px;
+}
+
+.title3 {
+	font-size: 45pt;
+	color: black;
+	font-family: lucida fax, serif;
+	text-align: left;
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+}
+
+.info {
+	font-size: 13pt;
+	color: black;
+	font-family: lucida fax, serif;
+	font-style: italic;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 210px;
+}
+
+.info2 {
+	font-size: 17pt;
+	color: black;
+	font-family: lucida fax, serif;
+	text-align: center;
+	position: relative;
+	top: 210px;
+}
+
+.info3 {
+	font-size: 13pt;
+	color: black;
+	font-family: lucida fax, serif;
+	font-style: italic;
+	text-align: center;
+	position: relative;
+	top: 250px;
+}
+
+.info4 {
+	font-size: 17pt;
+	color: black;
+	font-family: lucida fax, serif;
+	text-align: center;
+	position: relative;
+	top: 250px;
+}
+
+.info5{
+	font-size: 13pt;
+	color: black;
+	font-family: lucida fax, serif;
+	font-style: italic;
+	text-align: center;
+	position: relative;
+	top: 290px;
+}
+
+.info6 {
+	font-size: 16.5pt;
+	color: black;
+	font-family: lucida fax, serif;
+	text-align: center;
+	position: relative;
+	top: 290px;
+}
