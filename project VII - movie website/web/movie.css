@@ -1,0 +1,306 @@
+body{
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+#main {
+	height: 150px;
+	width: 950px;
+	margin: 0 auto;
+	color: white;
+}
+
+#navigate{
+	height: 150px;
+	width: 950px;
+	background-color: black;
+}
+
+#navigate a{
+	padding: 25px 25px 25px 25px;
+	font-family: futura, sans-serif;
+	font-size: 2.2em;
+	line-height: 4em;
+	color: white;
+	background-color: black; 
+	color: white;
+	text-decoration: none;
+}
+#navigate a:hover{
+	background-color: #b25454;
+	transition: all .30s ease-out;
+	cursor:pointer;
+}
+#navigate:first-child{
+	padding-left: 1em;
+}
+
+#background {
+	width: 1250px;
+	height: 703px;
+	background: url(main.jpg);
+	margin: 0 auto;
+	border: 2px solid red;
+}
+
+.type1 {
+	font-size: 8.7em;
+	color: red;
+	font-family: cut the crap, sans-serif;
+	letter-spacing: 25px;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:1.3em;
+	padding-bottom:0px;
+}
+
+.type2 {
+	font-size: 2.3em;
+	color: red;
+	font-family: cut the crap, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:12.5em;
+	padding-left: 15em;
+}
+
+.type3 {
+	font-size: 40px;
+	color: red;
+	font-family: futura, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-left: 13.7em;
+	padding-bottom:0px;
+}
+
+.type4 {
+	width: 573px;
+	height: 431px;
+	font-size: 20px;
+	color: red;
+	font-family: futura, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:10px;
+	padding-left: 28em;
+	padding-bottom:-10px;
+}
+
+.type5 {
+	font-size: 38px;
+	color: red;
+	font-family: cut the crap, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+.type6 {
+	font-size: 25px;
+	color: red;
+	font-family: futura, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-left: 5px;
+	padding-bottom:0px;
+}
+
+#trailer{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.name1{
+	font-size: 2em;
+	color: red;
+	font-family: futura, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:1.3em;
+	padding-bottom:0px;
+}
+.name2{
+	font-size: 2em;
+	color: red;
+	font-family: futura, sans-serif, bold;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-top:1.3em;
+	padding-bottom:0px;
+}
+
+#directory{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+#gif1{
+	padding-top: 10em;
+}
+
+#gif2{
+	padding-top: 0;
+}
+
+#casting{
+	padding-top: 20px;
+	padding-left: 90px;
+}
+
+.type7{
+	font-size: 45px;
+	color: red;
+	font-family: cut the crap, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-right: 80px;
+	padding-top:0px;
+	padding-bottom:20px;
+}
+
+.cast1{
+width: 281px;
+	height: 281px;
+	position: relative;
+	padding-left: 50px;
+	cursor: pointer;
+}
+.cast1:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast2{
+	width: 281px;
+	height: 281px;
+	position: relative;
+	padding-left: 28em;
+	padding-top: 6.3em;
+	cursor: pointer;
+}
+.cast2:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast3{
+	width: 281px;
+	height: 281px;
+	position: relative;
+	padding-left: 53em;
+	padding-top: 6.3em;
+
+	cursor: pointer;
+}
+.cast3:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast4{
+	height: 381px;
+	position: relative;
+	padding-left: 50px;
+	padding-top: 7em;
+
+	cursor: pointer;
+}
+.cast4:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast5{
+	width: 381px;
+	height: 381px;
+	position: relative;
+	padding-left: 28em;
+
+	cursor: pointer;
+}
+.cast5:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast6{
+	width: 381px;
+	height: 381px;
+	position: relative;
+	padding-left: 53em;
+	
+	cursor: pointer;
+}
+.cast6:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast7{
+	height: 381px;
+	position: relative;
+	padding-left: 50px;
+	padding-top: 1.5em;
+	cursor: pointer;
+}
+.cast7:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast8{
+	width: 381px;
+	height: 381px;
+	position: relative;
+	padding-left: 28em;
+
+	cursor: pointer;
+}
+.cast8:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+.cast9{
+	width: 381px;
+	height: 381px;
+	position: relative;
+	padding-left: 53em;
+
+	cursor: pointer;
+}
+.cast9:hover img{
+	transition: all .30s ease-in;
+	filter: brightness(.5);
+}
+
+.type8{
+	font-size: 65px;
+	color: black;
+	font-family: cut the crap, sans-serif;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	padding-right: 80px;
+	padding-top:0px;
+}
+
+#gif3{
+	width: 1250px;
+	height: 100px;
+	padding-top: 3em;
+	position: absolute;
+	margin: 0 auto;
+	background: url(bloodloop.gif);
+	width: 1250px;
+}
+
+#share{
+	margin: 0 auto;
+	padding-left: 50px;
+	padding-top: 60px;
+}
